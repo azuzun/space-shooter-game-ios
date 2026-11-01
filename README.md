@@ -1,4 +1,4 @@
-# Space Shooter Game iOS
+# space-shooter-game-ios
 
 **Status: Under development**
 
@@ -24,12 +24,10 @@ A 2D arcade space shooter for iOS, built with Swift and SpriteKit. Pilot a space
 
 ## Getting started
 
-1. Clone this repository and open `Solo_Mission.xcodeproj` in Xcode.
-2. Select the `Solo_Mission` scheme and an available iPhone simulator.
+1. Clone this repository and open `space-shooter-game-ios.xcodeproj` in Xcode.
+2. Select the `space-shooter-game-ios` scheme and an available iPhone simulator.
 3. Build and run the project.
 4. To run on a physical device, select your own development team under **Signing & Capabilities** and use a unique bundle identifier.
-
-The Xcode project and target retain the original internal name, `Solo_Mission`.
 
 ## Controls
 
@@ -42,4 +40,4 @@ The project is under active development and is not yet a finished release. Core 
 
 ## Credits
 
-Developed by **Ahmet Zeki Uzun** as an iOS game development learning project. The repository includes the original **Solo Mission Credits** asset alongside the game resources.
+Developed by **Ahmet Zeki Uzun** as an iOS game development learning project. Asset attribution is preserved in the bundled **Credits** resource.

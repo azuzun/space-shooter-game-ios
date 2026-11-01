@@ -1,6 +1,6 @@
 //
 //  GameViewController.swift
-//  Solo_Mission
+//  space-shooter-game-ios
 //
 //  Created by Ahmet Zeki Uzun on 3.09.2026.
 //
